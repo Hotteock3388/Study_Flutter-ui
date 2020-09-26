@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:free_write/helloworld.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(new HelloWorld2());
 }
 
 class MyApp extends StatelessWidget {
