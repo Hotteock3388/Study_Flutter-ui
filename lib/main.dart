@@ -2,9 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:free_write/1.%20helloworld.dart';
 import 'package:free_write/2.%20Stateless%20Widgets.dart';
 import 'package:free_write/3.Buttons%20and%20StatefulWidgets.dart';
+import 'package:free_write/4-1.Simple%20routes%20using%20StatelessWidget.dart';
 
 void main() {
-  runApp(new AwesomeButton());
+  runApp(new MaterialApp(home: new HomePage(), routes: <String, WidgetBuilder>{
+    "/SecondPage": (BuildContext context) => new SecondPage()
+  }));
 }
 
 class MyApp extends StatelessWidget {
