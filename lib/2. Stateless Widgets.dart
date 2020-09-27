@@ -57,7 +57,6 @@ class MyCard extends StatelessWidget {
                 child: new Column(children: <Widget>[
                   // new Text("I love Flutter"),
                   // new Icon(Icons.favorite)
-
                   this.title,
                   this.icon
                 ]))));
