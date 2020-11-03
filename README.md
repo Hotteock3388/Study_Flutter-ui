@@ -1,16 +1,8 @@
 # free_write
 
-A new Flutter project.
+처음 써보는 다트라는 언어에 레이아웃 짜는 법과 여러 가지 기초적인 기능들을 공부, 기록하기 위한 레포
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+이거 따라했슴다
+https://kodestat.gitbook.io/flutter/
